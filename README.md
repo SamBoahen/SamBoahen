@@ -24,7 +24,7 @@ Other: Cloud (AWS)
 
 🌐 Connect with Me
 
-📧 Email: samuel.boahen.aws@proton.me
+📧 Email:samuel.code.itall@proton.me
 🔗 LinkedIn: 
 🐦 X: 
 🌐 Portfolio: 
