@@ -2,18 +2,16 @@
 I'm on my way to become cloud aws security engineer with a knack for building efficient, user-focused solutions. I love tackling complex problems, learning new technologies, and contributing to open-source projects.
 🚀 About Me
 
-💻 Current Role: Student 
+💻 Current Role: Self Learner 
 🎓 Education: None
 🌱 Learning: Currently diving deeper into cloud computing.
-⚡ Fun Fact: I’m an avid [e.g., eXpresso enthusiast!
 
 🛠️ Skills
 
-Languages: Python, JavaScript.
-Frameworks & Libraries:  React, Node.js.
+Languages: JavaScript.
 Tools: Git, VS Code.
 Databases: SQL
-Other: Cloud (AWS)
+Other: Cloud (AWS, Azure)
 
 🔨 Featured Projects
 
