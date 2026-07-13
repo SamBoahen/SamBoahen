@@ -17,7 +17,7 @@
 🌐 Connect with Me
 
 📧 Email:samuel.code.itall@proton.me
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/samuel-boahen/
 🐦 X: 
 🌐 Portfolio: 
 
