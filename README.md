@@ -5,7 +5,7 @@
 🌱 Learning: Currently diving deeper into cloud computing.
 
 🛠️ Skills
-
+Bash Scripting, RHCSA
 
 🔨 Featured Projects
 
